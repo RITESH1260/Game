@@ -1,4 +1,11 @@
 # 🎮 Game Project (Python)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+
+![License](https://img.shields.io/badge/License-MIT-green)
+
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
 
 A simple game developed in Python to demonstrate game logic, object-oriented programming, and AI agent implementation.
 
