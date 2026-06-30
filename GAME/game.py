@@ -1,14 +1,14 @@
 import random #for choose random choices
 import time #for time sleep to program execution
 import speech_recognition as sr    # speech recognition used for listening the user input through microphone
-
+import pygame
 import pyttsx3  # pyttsx3 used to speak the output of the game through speakers
 
 
 def play_game():
     while True:
         engine = pyttsx3.init()
-
+        
         r = sr.Recognizer()
         print("==========Welcome to the my game!==============")
         engine.say("Welcome to the my game!. I am Tony Stark here to play rock paper scissors with you. Let's start the game!")
